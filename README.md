@@ -1,6 +1,6 @@
-OTM2013
+OTM2014
 =======
 
-Ohjelmistotekniikan menetelmät, syksy 2013
+Ohjelmistotekniikan menetelmät, kevät 2014
 
-https://github.com/mluukkai/OTM2013/wiki/Ohjelmistotekniikan-menetelmat
+https://github.com/josalmi/OTM2014/wiki/
